@@ -1,6 +1,6 @@
 # CityFM
 
-### This is the code for 'CityFM' paper (CIKM 2024 Submission)
+### This is the code for 'CityFM' paper (CIKM 2024)
 
 &rarr; Download our pre-trained models here: <a href="https://drive.google.com/file/d/1KauU3-sa-xdQPn2Lb_HyG6B5D5milNjo/view?usp=drive_link" target="_blank">Singapore</a>, <a href="https://drive.google.com/file/d/1fsdl-DI9XyFX4thK2NUbjWwXIr0xUmvy/view?usp=drive_link" target="_blank">New York</a>, <a href="https://drive.google.com/file/d/1lYXPTwAFBOkPCIdona4knostPB9gFlMI/view?usp=drive_link" target="_blank">Seattle</a>
 
